@@ -1,0 +1,57 @@
+body 
+{
+    /* background-image: url('images/IMG_0863.jpg');
+    background-size: 1800px;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    background: black;
+    color:white;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+}
+.links {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+#about {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+p {
+    background-color: white;
+    color: black;
+    margin:  40px 100px;
+    padding:25px 50px;
+    font-size: 25px;
+}
+#background {
+    font-size: 40px;
+    text-align: center;
+}
+#background_skills {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    margin:  40px 100px;
+    padding:25px 50px;
+}
+#projects {
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 100px;
+}
